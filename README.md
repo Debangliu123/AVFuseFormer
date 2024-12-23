@@ -1,7 +1,9 @@
 # FusionFormerNet: An Audio-Visual Fusion Network Using DTC-FFNFormer for Time-Domain Speech Separation
+<img src='fig/AVSS-FusionFormer.jpg' align="center" width=700>
+
 To demonstrate the effectiveness of our model on real-world audio visual speech data, we obtained several real-world video recordings from YouTube containing mixed speech from two speakers, to demonstrate the effectiveness of our separation model. The demo results can be accessed through the following link:
 
-<img src='fig/AVSS-FusionFormer.jpg' align="right" width=700>
+
 
 [**The demo in Google cloud disk**](https://drive.google.com/file/d/1yPaKq7BkdNy8Y7hWri46jpeZp4SsROaY/view?usp=sharing)
 
