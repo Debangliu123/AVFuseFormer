@@ -1,3 +1,5 @@
+
+
 <h1 align="center">AVFuseFormer</h1>
 
 <p align="center">
@@ -104,15 +106,4 @@ These examples demonstrate the separation capability of AVFuseFormer under both 
 
 ---
 
-## Citation
 
-If this work is useful for your research, please consider citing our paper:
-
-```bibtex
-@article{AVFuseFormer,
-  title   = {AVFuseFormer: Audio-Visual Fusion and Sequence Modeling with LGAF and DFBN for Efficient Speech Separation},
-  author  = {Author names},
-  journal = {Journal name},
-  year    = {2026}
-}
-```
