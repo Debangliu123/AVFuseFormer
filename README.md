@@ -11,10 +11,12 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Source%20Code-Coming%20Soon-orange"
-    alt="Source Code Coming Soon"
-  >
+  <a href="#source-code">
+    <img
+      src="https://img.shields.io/badge/Source%20Code-Coming%20Soon-orange"
+      alt="Source Code Coming Soon"
+    >
+  </a>
 </p>
 
 ---
@@ -125,7 +127,6 @@ These examples demonstrate the separation capability of AVFuseFormer under both 
 > The source code and pretrained models will be made publicly available upon acceptance of the paper. Please stay tuned for future updates.
 
 ---
-
 
 ## Contact
 
