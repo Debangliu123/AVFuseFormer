@@ -96,23 +96,15 @@ To evaluate the effectiveness and robustness of AVFuseFormer on real-world audio
 
 ### Demo Video 1
 
-https://github.com/user-attachments/assets/f6a8ff1f-4990-405f-adc1-5f523dd0a7c1
-
-### Demo Video 2
-
 https://github.com/user-attachments/assets/7a91c34f-f0cb-4c30-b737-7e9c1a9a1fc9
-
-### Demo Video 3
-
-https://github.com/user-attachments/assets/8fc10c1e-7b1d-4708-93d9-aef114d46d1c
 
 ### Full Demo Collection
 
-Additional real-world separation examples are available through Google Drive.
+The complete set of real-world separation demonstrations can also be accessed and downloaded via Google Drive.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1yPaKq7BkdNy8Y7hWri46jpeZp4SsROaY/view?usp=sharing">
-    <b>▶ View the Full Real-World Demo on Google Drive</b>
+    <b>▶ Access and Download the Full Demo via Google Drive</b>
   </a>
 </p>
 
@@ -134,18 +126,7 @@ These examples demonstrate the separation capability of AVFuseFormer under both 
 
 ---
 
-## Citation
 
-If this work is useful for your research, please consider citing our paper:
-
-```bibtex
-@article{AVFuseFormer,
-  title   = {AVFuseFormer: Audio-Visual Fusion and Sequence Modeling with LGAF and DFBN for Efficient Speech Separation},
-  author  = {Author names},
-  journal = {Journal name},
-  year    = {2026}
-}
-```
 
 ---
 
