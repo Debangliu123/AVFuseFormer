@@ -1,7 +1,9 @@
 # AVFuseFormer:  Audio-Visual Fusion and Sequence Modeling Network Using LGAF and DFBN for Efficient Speech Separation
+
+AVFuseFormer Network:
 <img src='fig/AVFuseFormer_5.jpg' align="center" width=800>
 
-# AVFuseFormer:  Audio-Visual Fusion and Sequence Modeling Network Using LGAF and DFBN for Efficient Speech Separation
+DFBN Network:
 <img src='fig/DTC-FFNBFormer4.jpg' align="center" width=800>
 
 To demonstrate the effectiveness of our model on real-world audio visual speech data, we obtained several real-world video recordings from YouTube containing mixed speech from two speakers, to demonstrate the effectiveness of our separation model. The demo results can be accessed through the following link:
