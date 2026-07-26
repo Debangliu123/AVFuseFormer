@@ -127,9 +127,6 @@ These examples demonstrate the separation capability of AVFuseFormer under both 
 ---
 
 
-
----
-
 ## Contact
 
 For questions regarding this work, please open an issue in this repository.
