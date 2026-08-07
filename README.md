@@ -25,9 +25,9 @@
 
 AVFuseFormer is a computationally efficient audio-visual speech separation framework designed to effectively exploit complementary audio and visual information. It incorporates:
 
-* **LGAF**, which establishes dynamic cross-modal interactions and adaptively aggregates complementary audio-visual information.
-* **DFBN**, which models local and global contexts together with temporal and channel-wise dependencies.
-* A **hierarchical encoder–decoder architecture**, which integrates multimodal fusion and sequence modeling for efficient speech separation.
+- **LGAF**, which models dynamic cross-modal interactions and adaptively integrates complementary audio-visual information.
+- **DFBN**, which jointly captures local and global contexts, temporal dependencies, and channel-wise relationships.
+- A **hierarchical encoder–decoder architecture**, which integrates multimodal fusion and sequence modeling for efficient speech separation.
 
 ---
 
@@ -60,14 +60,14 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
   </tr>
 
   <tr>
-    <td align="center" valign="middle">
+    <td align="center" valign="middle" width="50%">
       <img
         src="fig/DTC-FFNBFormer4.jpg"
-        alt="Architecture of the DTC-FFBFormer Network"
+        alt="Architecture of the DFBN Network"
         width="95%"
       >
     </td>
-    <td align="center" valign="middle">
+    <td align="center" valign="middle" width="50%">
       <img
         src="fig/LGAF3.jpg"
         alt="Architecture of the LGAF Module"
@@ -94,15 +94,15 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
 
 ## Real-World Demonstration
 
-To evaluate the effectiveness and robustness of AVFuseFormer on real-world audio-visual speech data, we test the model using several video recordings collected from YouTube. Each recording contains overlapping speech from two speakers under different facial poses and motion conditions.
+To evaluate the effectiveness of AVFuseFormer on real-world audio-visual speech data, we test the model using several video recordings collected from YouTube. Each recording contains overlapping speech from two speakers under different facial poses and head-motion conditions.
 
-### Demo Video 1
+### Demo Video
 
 https://github.com/user-attachments/assets/7a91c34f-f0cb-4c30-b737-7e9c1a9a1fc9
 
 ### Full Demo Collection
 
-The complete set of real-world separation demonstrations can also be accessed and downloaded via Google Drive.
+The complete set of real-world separation demonstrations is also available for viewing and download via Google Drive.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1yPaKq7BkdNy8Y7hWri46jpeZp4SsROaY/view?usp=sharing">
@@ -112,12 +112,12 @@ The complete set of real-world separation demonstrations can also be accessed an
 
 ### Demo Conditions
 
-| Videos | Facial pose and motion                                                     |
-| :----: | :------------------------------------------------------------------------- |
-|   1–2  | The speakers mainly maintain frontal facial poses.                         |
-|   3–5  | The speakers exhibit varying degrees of side-facing poses and head motion. |
+| Videos | Facial pose and motion |
+| :----: | :--------------------- |
+| 1–2 | The speakers mainly maintain frontal facial poses. |
+| 3–5 | The speakers exhibit varying degrees of side-facing poses and head motion. |
 
-These examples demonstrate the separation capability of AVFuseFormer under both relatively controlled frontal-view conditions and more challenging scenarios involving pose variations and head movements.
+These examples demonstrate the effectiveness of AVFuseFormer under both relatively controlled frontal-view conditions and more challenging scenarios involving pose variations and head movements.
 
 ---
 
@@ -130,4 +130,4 @@ These examples demonstrate the separation capability of AVFuseFormer under both 
 
 ## Contact
 
-For questions regarding this work, please open an issue in this repository.
+For questions or issues related to this work, please open an issue in this repository.
