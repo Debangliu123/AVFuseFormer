@@ -73,7 +73,7 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
   <tr>
     <td align="center" valign="top">
       <em>
-        Architecture of the DTC-FFBFormer Network (DFBN) module..
+        Architecture of the DTC-FFBFormer Network (DFBN) module.
       </em>
     </td>
     <td align="center" valign="top">
