@@ -98,14 +98,14 @@ To evaluate the effectiveness of AVFuseFormer on real-world audio-visual speech 
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/7a91c34f-f0cb-4c30-b737-7e9c1a9a1fc9
+https://github.com/user-attachments/assets/96e16abe-bd4e-4187-a4cc-caf40e977b46
 
 ### Full Demo Collection
 
 The complete set of real-world separation demonstrations is also available for viewing and download via Google Drive.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1yPaKq7BkdNy8Y7hWri46jpeZp4SsROaY/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1m22oktrv1XFLONPhJP4qVx8hhl706oTi/view?usp=drive_link">
     <b>▶ Access and Download the Full Demo via Google Drive</b>
   </a>
 </p>
