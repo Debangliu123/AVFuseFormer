@@ -98,7 +98,10 @@ To evaluate the effectiveness and robustness of AVFuseFormer on real-world audio
 
 ### Demo Video 1
 
-https://github.com/user-attachments/assets/7a91c34f-f0cb-4c30-b737-7e9c1a9a1fc9
+
+https://github.com/user-attachments/assets/96e16abe-bd4e-4187-a4cc-caf40e977b46
+
+
 
 ### Full Demo Collection
 
@@ -110,9 +113,6 @@ The complete set of real-world separation demonstrations can also be accessed an
   </a>
 </p>
 
-### Demo Conditions
-
-https://github.com/user-attachments/assets/f26749d5-8320-4654-bf31-41bd70e355e2
 
 
 
