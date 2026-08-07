@@ -112,6 +112,10 @@ The complete set of real-world separation demonstrations can also be accessed an
 
 ### Demo Conditions
 
+https://github.com/user-attachments/assets/f26749d5-8320-4654-bf31-41bd70e355e2
+
+
+
 | Videos | Facial pose and motion                                                     |
 | :----: | :------------------------------------------------------------------------- |
 |   1–2  | The speakers mainly maintain frontal facial poses.                         |
