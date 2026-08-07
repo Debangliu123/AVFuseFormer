@@ -37,7 +37,7 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
 
 <p align="center">
   <img
-    src="fig/AVFuseFormer_5.jpg"
+    src="fig/AVFuseFormer_7.jpg"
     alt="Overall architecture of AVFuseFormer"
     width="1000"
   >
@@ -60,7 +60,7 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
   </tr>
 
   <tr>
-    <td align="center" valign="middle">
+    <td align="center" valign="middle" width="50%">
       <img
         src="fig/DTC-FFNBFormer4.jpg"
         alt="Architecture of the DFBN Network"
@@ -69,7 +69,13 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
     </td>
 
 ```
-<td align="center" valign="middle"> <img src="fig/LGAF3.jpg" alt="Architecture of the LGAF Module" width="95%" > </td>
+<td align="center" valign="middle" width="50%">
+  <img
+    src="fig/LGAF3.jpg"
+    alt="Architecture of the LGAF Module"
+    width="95%"
+  >
+</td>
 ```
 
   </tr>
