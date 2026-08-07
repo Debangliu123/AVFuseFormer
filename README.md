@@ -25,9 +25,9 @@
 
 AVFuseFormer is a computationally efficient audio-visual speech separation framework designed to effectively exploit complementary audio and visual information. It incorporates:
 
-* **LGAF**, which establishes dynamic cross-modal interactions and adaptively aggregates complementary audio-visual information.
-* **DFBN**, which models local and global contexts together with temporal and channel-wise dependencies.
-* A **hierarchical encoder–decoder architecture**, which integrates multimodal fusion and sequence modeling for efficient speech separation.
+- **LGAF**, which establishes dynamic cross-modal interactions and adaptively aggregates complementary audio-visual information.
+- **DFBN**, which models local and global contexts together with temporal and channel-wise dependencies.
+- A **hierarchical encoder–decoder architecture**, which integrates multimodal fusion and sequence modeling for efficient speech separation.
 
 ---
 
@@ -37,7 +37,7 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
 
 <p align="center">
   <img
-    src="fig/AVFuseFormer_7.jpg"
+    src="https://raw.githubusercontent.com/Debangliu123/AVFuseFormer/main/fig/AVFuseFormer_7.jpg"
     alt="Overall architecture of AVFuseFormer"
     width="1000"
   >
@@ -62,22 +62,19 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
   <tr>
     <td align="center" valign="middle" width="50%">
       <img
-        src="fig/DTC-FFNBFormer4.jpg"
+        src="https://raw.githubusercontent.com/Debangliu123/AVFuseFormer/main/fig/DTC-FFNBFormer4.jpg"
         alt="Architecture of the DFBN Network"
         width="95%"
       >
     </td>
 
-```
-<td align="center" valign="middle" width="50%">
-  <img
-    src="fig/LGAF3.jpg"
-    alt="Architecture of the LGAF Module"
-    width="95%"
-  >
-</td>
-```
-
+    <td align="center" valign="middle" width="50%">
+      <img
+        src="https://raw.githubusercontent.com/Debangliu123/AVFuseFormer/main/fig/LGAF3.jpg"
+        alt="Architecture of the LGAF Module"
+        width="95%"
+      >
+    </td>
   </tr>
 
   <tr>
@@ -87,14 +84,11 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
       </em>
     </td>
 
-```
-<td align="center" valign="top">
-  <em>
-    Architecture of the Local–Global Audio-Visual Fusion module.
-  </em>
-</td>
-```
-
+    <td align="center" valign="top">
+      <em>
+        Architecture of the Local–Global Audio-Visual Fusion module.
+      </em>
+    </td>
   </tr>
 </table>
 
@@ -120,10 +114,10 @@ The complete set of real-world separation demonstrations can also be accessed an
 
 ### Demo Conditions
 
-| Videos | Facial pose and motion                                                     |
-| :----: | :------------------------------------------------------------------------- |
-|   1–2  | The speakers mainly maintain frontal facial poses.                         |
-|   3–5  | The speakers exhibit varying degrees of side-facing poses and head motion. |
+| Videos | Facial pose and motion |
+| :----: | :--------------------- |
+| 1–2 | The speakers mainly maintain frontal facial poses. |
+| 3–5 | The speakers exhibit varying degrees of side-facing poses and head motion. |
 
 These examples demonstrate the effectiveness of AVFuseFormer under both relatively controlled frontal-view conditions and more challenging scenarios involving substantial pose variations and head movements.
 
