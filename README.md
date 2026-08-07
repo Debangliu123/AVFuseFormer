@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  An efficient audio-visual speech separation framework that integrates the
-  <b>Local–Global Audio-Visual Fusion module (LGAF)</b> and the
-  <b>DTC-FFBFormer Network (DFBN)</b>.
-</p>
-
-<p align="center">
   <a href="#source-code">
     <img
       src="https://img.shields.io/badge/Source%20Code-Coming%20Soon-orange"
