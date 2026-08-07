@@ -21,7 +21,7 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
 
 - **LGAF**, which models dynamic cross-modal interactions and adaptively integrates complementary audio-visual information.
 - **DFBN**, which jointly captures local and global contexts, temporal dependencies, and channel-wise relationships.
-- A **hierarchical encoder–decoder architecture**, which integrates multimodal fusion and sequence modeling for efficient speech separation.
+- **AVFuseFormer architecture**, which integrates multimodal fusion and sequence modeling for efficient speech separation.
 
 ---
 
