@@ -1,8 +1,8 @@
 <h1 align="center">AVFuseFormer</h1>
 
-<p align="center">
-  <b>Audio-Visual Fusion and Sequence Modeling with LGAF and DFBN for Efficient Speech Separation</b>
-</p>
+<h3 align="center">
+  Audio-Visual Fusion and Sequence Modeling with LGAF and DFBN for Efficient Speech Separation
+</h3>
 
 <p align="center">
   <a href="#source-code">
