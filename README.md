@@ -1,3 +1,24 @@
+<h1 align="center">AVFuseFormer</h1>
+
+<p align="center">
+  <b>Audio-Visual Fusion and Sequence Modeling with LGAF and DFBN for Efficient Speech Separation</b>
+</p>
+
+<p align="center">
+  An efficient audio-visual speech separation framework that integrates the
+  <b>Local–Global Audio-Visual Fusion module (LGAF)</b> and the
+  <b>DTC-FFBFormer Network (DFBN)</b>.
+</p>
+
+<p align="center">
+  <a href="#source-code">
+    <img
+      src="https://img.shields.io/badge/Source%20Code-Coming%20Soon-orange"
+      alt="Source Code Coming Soon"
+    >
+  </a>
+</p>
+
 ---
 
 ## Overview
@@ -14,7 +35,68 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
 
 ### AVFuseFormer
 
+<p align="center">
+  <img
+    src="fig/AVFuseFormer_5.jpg"
+    alt="Overall architecture of AVFuseFormer"
+    width="1000"
+  >
+</p>
+
+<p align="center">
+  <em>Overall architecture of the proposed AVFuseFormer.</em>
+</p>
+
 ### Core Modules
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>DFBN Network</b>
+    </td>
+    <td align="center" width="50%">
+      <b>LGAF Module</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="fig/DTC-FFNBFormer4.jpg"
+        alt="Architecture of the DFBN Network"
+        width="95%"
+      >
+    </td>
+
+```
+<td align="center" valign="middle">
+  <img
+    src="fig/LGAF2.jpg"
+    alt="Architecture of the LGAF Module"
+    width="95%"
+  >
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td align="center" valign="top">
+      <em>
+        Architecture of the DTC-FFBFormer Network used in DFBN.
+      </em>
+    </td>
+
+```
+<td align="center" valign="top">
+  <em>
+    Architecture of the Local–Global Audio-Visual Fusion module.
+  </em>
+</td>
+```
+
+  </tr>
+</table>
 
 ---
 
@@ -29,6 +111,12 @@ https://github.com/user-attachments/assets/96e16abe-bd4e-4187-a4cc-caf40e977b46
 ### Full Demo Collection
 
 The complete set of real-world separation demonstrations can also be accessed and downloaded via Google Drive.
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1yPaKq7BkdNy8Y7hWri46jpeZp4SsROaY/view?usp=sharing">
+    <b>▶ Access and Download the Full Demo via Google Drive</b>
+  </a>
+</p>
 
 ### Demo Conditions
 
