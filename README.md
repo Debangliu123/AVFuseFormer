@@ -37,7 +37,7 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
 
 <p align="center">
   <img
-    src="fig/AVFuseFormer_7.jpg"
+    src="fig/AVFuseFormer_5.jpg"
     alt="Overall architecture of AVFuseFormer"
     width="1000"
   >
