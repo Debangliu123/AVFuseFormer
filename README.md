@@ -25,9 +25,9 @@
 
 AVFuseFormer is a computationally efficient audio-visual speech separation framework designed to effectively exploit complementary audio and visual information. It incorporates:
 
-- **LGAF**, which establishes dynamic cross-modal interactions and adaptively aggregates complementary audio-visual information.
-- **DFBN**, which models local and global contexts together with temporal and channel-wise dependencies.
-- A **hierarchical encoder–decoder architecture**, which integrates multimodal fusion and sequence modeling for efficient speech separation.
+* **LGAF**, which establishes dynamic cross-modal interactions and adaptively aggregates complementary audio-visual information.
+* **DFBN**, which models local and global contexts together with temporal and channel-wise dependencies.
+* A **hierarchical encoder–decoder architecture**, which integrates multimodal fusion and sequence modeling for efficient speech separation.
 
 ---
 
@@ -37,7 +37,7 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Debangliu123/AVFuseFormer/main/fig/AVFuseFormer_7.jpg"
+    src="fig/AVFuseFormer_7.jpg"
     alt="Overall architecture of AVFuseFormer"
     width="1000"
   >
@@ -60,17 +60,16 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
   </tr>
 
   <tr>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle">
       <img
-        src="https://raw.githubusercontent.com/Debangliu123/AVFuseFormer/main/fig/DTC-FFNBFormer4.jpg"
-        alt="Architecture of the DFBN Network"
+        src="fig/DTC-FFNBFormer4.jpg"
+        alt="Architecture of the DTC-FFBFormer Network"
         width="95%"
       >
     </td>
-
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle">
       <img
-        src="https://raw.githubusercontent.com/Debangliu123/AVFuseFormer/main/fig/LGAF3.jpg"
+        src="fig/LGAF3.jpg"
         alt="Architecture of the LGAF Module"
         width="95%"
       >
@@ -83,7 +82,6 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
         Architecture of the DTC-FFBFormer Network used in DFBN.
       </em>
     </td>
-
     <td align="center" valign="top">
       <em>
         Architecture of the Local–Global Audio-Visual Fusion module.
@@ -96,11 +94,11 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
 
 ## Real-World Demonstration
 
-To evaluate the effectiveness of AVFuseFormer on real-world audio-visual speech data, we test the model using several video recordings collected from YouTube. Each recording contains overlapping speech from two speakers under different facial-pose and head-motion conditions.
+To evaluate the effectiveness and robustness of AVFuseFormer on real-world audio-visual speech data, we test the model using several video recordings collected from YouTube. Each recording contains overlapping speech from two speakers under different facial poses and motion conditions.
 
-### Demo Video
+### Demo Video 1
 
-https://github.com/user-attachments/assets/96e16abe-bd4e-4187-a4cc-caf40e977b46
+https://github.com/user-attachments/assets/7a91c34f-f0cb-4c30-b737-7e9c1a9a1fc9
 
 ### Full Demo Collection
 
@@ -114,12 +112,12 @@ The complete set of real-world separation demonstrations can also be accessed an
 
 ### Demo Conditions
 
-| Videos | Facial pose and motion |
-| :----: | :--------------------- |
-| 1–2 | The speakers mainly maintain frontal facial poses. |
-| 3–5 | The speakers exhibit varying degrees of side-facing poses and head motion. |
+| Videos | Facial pose and motion                                                     |
+| :----: | :------------------------------------------------------------------------- |
+|   1–2  | The speakers mainly maintain frontal facial poses.                         |
+|   3–5  | The speakers exhibit varying degrees of side-facing poses and head motion. |
 
-These examples demonstrate the effectiveness of AVFuseFormer under both relatively controlled frontal-view conditions and more challenging scenarios involving substantial pose variations and head movements.
+These examples demonstrate the separation capability of AVFuseFormer under both relatively controlled frontal-view conditions and more challenging scenarios involving pose variations and head movements.
 
 ---
 
