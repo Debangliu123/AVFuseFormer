@@ -1,17 +1,13 @@
 <h1 align="center">Audio-Visual Speech Separation</h1>
 
 <p align="center">
-  This repository brings together two project pages for our research on efficient audio-visual speech separation: <strong>AVFuseFormer</strong> and <strong>AVCISAFormer</strong>.
-</p>
-
-<p align="center">
-  Explore each project for method descriptions, network architectures, experimental results, real-world demonstrations, and code release updates.
+  This project page showcases two efficient audio-visual speech separation models: <strong>AVFuseFormer</strong> and <strong>AVCISAFormer</strong>.
 </p>
 
 <p align="center">
   🧩 <strong>Architectures</strong> &nbsp;·&nbsp;
   📊 <strong>Results</strong> &nbsp;·&nbsp;
-  🎬 <strong>Demos</strong> &nbsp;·&nbsp;
+  🎬 <strong>Demos</strong>
 </p>
 
 ---
@@ -43,7 +39,7 @@
   <tr>
     <td valign="top">
       <h3>
-        <a href="./AVFuseFormer-V1/">View the more details of AVFuseFormer Project →</a>
+        <a href="./AVFuseFormer-V1/">🚪 View more details of the AVFuseFormer project →</a>
         <a href="./AVFuseFormer-V1/">
           <img src="https://img.shields.io/badge/Project%20Details-2563EB?style=flat-square" alt="Project Details">
         </a>
@@ -57,7 +53,7 @@
     </td>
     <td valign="top">
       <h3>
-        <a href="./AVCISAFormer-V2/">View the more details of AVCISAFormer Project →</a>
+        <a href="./AVCISAFormer-V2/">🚪 View more details of the AVCISAFormer project →</a>
         <a href="./AVCISAFormer-V2/">
           <img src="https://img.shields.io/badge/Project%20Details-2563EB?style=flat-square" alt="Project Details">
         </a>
