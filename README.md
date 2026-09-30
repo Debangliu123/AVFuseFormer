@@ -17,6 +17,7 @@
     <td width="50%" valign="top">
       <h2>Project 1: AVFuseFormer</h2>
       <h3>Audio-Visual Fusion and Sequence Modeling with LGAF and DFBN for Efficient Speech Separation</h3>
+      <p><strong>Submitted to TCE</strong></p>
       <p>
         AVFuseFormer integrates local-global cross-attention fusion and sequence modeling to exploit complementary audio-visual information while capturing local and global context, temporal dependencies, and channel-wise relationships.
       </p>
