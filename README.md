@@ -9,11 +9,9 @@
 </p>
 
 <p align="center">
-  📂 <strong>2 Projects</strong> &nbsp;·&nbsp;
   🧩 <strong>Architectures</strong> &nbsp;·&nbsp;
   📊 <strong>Results</strong> &nbsp;·&nbsp;
   🎬 <strong>Demos</strong> &nbsp;·&nbsp;
-  💻 <strong>Code Updates</strong>
 </p>
 
 ---
