@@ -6,7 +6,11 @@
 
 ---
 
-## AVFuseFormer
+<p align="left">
+  <a href="./AVFuseFormer-V1/">
+    <img src="https://img.shields.io/badge/%F0%9F%93%8C%20AVFuseFormer-1565C0?style=for-the-badge" alt="📌 AVFuseFormer" width="350">
+  </a>
+</p>
 
 ### Audio-Visual Fusion and Sequence Modeling with LGAF and DFBN for Efficient Speech Separation
 
@@ -16,9 +20,19 @@ Visit the project page for the network architecture, core modules, real-world de
 
 ### [View the AVFuseFormer Project →](./AVFuseFormer-V1/)
 
----
+<br>
 
-## AVCISAFormer
+<hr>
+<hr>
+<hr>
+
+<br>
+
+<p align="left">
+  <a href="./AVCISAFormer-V2/">
+    <img src="https://img.shields.io/badge/%F0%9F%93%8C%20AVCISAFormer-E65100?style=for-the-badge" alt="📌 AVCISAFormer" width="350">
+  </a>
+</p>
 
 ### Efficient Audio-Visual Speech Separation via Adaptive Cross-Modal Fusion and Multi-Scale Sequence-Aware Modeling
 
