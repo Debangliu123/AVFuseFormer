@@ -1,7 +1,7 @@
 <h1 align="center">Audio-Visual Speech Separation</h1>
 
 <p align="center">
-  This project page showcases two efficient audio-visual speech separation models: <strong>AVFuseFormer</strong> and <strong>AVCISAFormer</strong>.
+  This project page showcases two excellent audio-visual speech separation models: <strong>AVFuseFormer</strong> and <strong>AVCISAFormer</strong>.
 </p>
 
 <p align="center">
