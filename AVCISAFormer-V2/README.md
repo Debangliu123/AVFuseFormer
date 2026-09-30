@@ -42,6 +42,10 @@ This video demonstrates the speech separation performance of AVCISAFormer on rea
 <!-- 在下方单独一行粘贴 GitHub 生成的视频附件链接，链接须放在注释外。 -->
 
 
+
+https://github.com/user-attachments/assets/e20e5b16-1110-44ae-b97a-6ef37091ab78
+
+
 ---
 
 ## Network Architecture
