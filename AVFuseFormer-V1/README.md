@@ -22,6 +22,7 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
 - **LGAF**, which models dynamic cross-modal interactions and adaptively integrates complementary audio-visual information.
 - **DFBN**, which jointly captures local and global contexts, temporal dependencies, and channel-wise relationships.
 - **AVFuseFormer architecture**, which integrates DFBN and LGAF into a multi-stage encoder-decoder architecture for efficient speech separation.
+
 ---
 
 ## Network Architecture
@@ -32,7 +33,7 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
   <img
     src="fig/AVFuseFormer_7.jpg"
     alt="Overall architecture of AVFuseFormer"
-    width="1000"
+    width="100%"
   >
 </p>
 
@@ -51,37 +52,83 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
       <b>LGAF Module</b>
     </td>
   </tr>
-
   <tr>
     <td align="center" valign="middle" width="50%">
       <img
         src="fig/DTC-FFNBFormer4.jpg"
-        alt="Architecture of the DFBN Network"
+        alt="Architecture of the DFBN network"
         width="95%"
       >
     </td>
     <td align="center" valign="middle" width="50%">
       <img
         src="fig/LGAF3.jpg"
-        alt="Architecture of the LGAF Module"
+        alt="Architecture of the LGAF module"
         width="95%"
       >
     </td>
   </tr>
-
   <tr>
     <td align="center" valign="top">
-      <em>
-        Architecture of the DTC-FFBFormer Network (DFBN) module.
-      </em>
+      <em>Architecture of the DFBN network.</em>
     </td>
     <td align="center" valign="top">
-      <em>
-        Architecture of the local-global cross attention fusion (LGAF) module.
-      </em>
+      <em>Architecture of the local-global cross-attention fusion (LGAF) module.</em>
     </td>
   </tr>
 </table>
+
+### Visual Backbones
+
+The following figure illustrates the different visual backbones considered in our experiments.
+
+<p align="center">
+  <img
+    src="fig/FusionFormer_Different_Visualinput4.jpg"
+    alt="Schematic illustrations of different visual backbones"
+    width="100%"
+  >
+</p>
+
+<p align="center">
+  <em>Schematic illustrations of different visual backbones.</em>
+</p>
+
+---
+
+## Experimental Visualizations
+
+### Performance Distributions
+
+The following figure visualizes the distributions of speech separation performance across evaluation samples.
+
+<p align="center">
+  <img
+    src="fig/Visualization2_fig7_3.jpg"
+    alt="Visualization of performance distributions"
+    width="100%"
+  >
+</p>
+
+<p align="center">
+  <em>Visualization of performance distributions.</em>
+</p>
+
+### Speaker Identity Visualization
+
+The following figure visualizes speaker identity representations extracted from the separated speech, providing a qualitative view of speaker identity preservation.
+
+<p align="center">
+  <img
+    src="fig/Visualization3_fig9_3.jpg"
+    alt="Visualization of speaker identities in separated speech"
+    width="100%"
+  >
+</p>
+
+<p align="center">
+  <em>Visualization of speaker identities in separated speech.</em>
+</p>
 
 ---
 
