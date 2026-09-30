@@ -30,7 +30,7 @@ We introduce **AVCISAFormer**, an efficient audio-visual speech separation model
 - **Adaptive Cross-Modal Fusion Block (AVCFB):** Uses learnable queries to aggregate shared memory from joint audio-visual representations, enabling efficient cross-modal fusion while preserving modality-specific representations.
 - **Multi-Scale Sequence-Aware Block (MSAB):** Captures local details and global context while modeling temporal dependencies and channel-wise relationships.
 
-Experiments on multiple datasets demonstrate strong separation performance with a computational cost of only **2.6G MACs**, supporting a favorable balance between separation quality and efficiency.
+Experiments on multiple datasets demonstrate strong separation performance with a computational cost of only **2.6 G MACs**, supporting a favorable balance between separation quality and efficiency.
 
 ---
 
@@ -60,19 +60,17 @@ The **Multi-Scale Sequence-Aware Block (MSAB)** combines local and global modeli
 
 ## Performance and Efficiency
 
-AVCISAFormer is evaluated on multiple audio-visual speech separation datasets. The results demonstrate that effective cross-modal fusion and sequence modeling can deliver strong separation performance at a low computational cost.
-
-The following visualization compares separation performance, computational complexity, and model size across methods.
+AVCISAFormer is evaluated on multiple audio-visual speech separation datasets. The following visualization compares separation performance, computational complexity, and model size across methods.
 
 <p align="center">
-  <img src="fig/macs_si_snri_model_size_bubble.png" alt="Comparison of separation performance, computational complexity, and model size" width="70%">
+  <img src="fig/macs_si_snri_model_size_bubble.png" alt="Comparison of separation performance, computational complexity, and model size" width="100%">
 </p>
 
 <p align="center">
   <em>Performance–efficiency comparison. The horizontal axis denotes MACs, the vertical axis denotes SI-SNRi, and bubble size represents the number of model parameters.</em>
 </p>
 
-With only **2.6G MACs**, AVCISAFormer achieves a favorable balance between separation performance and computational requirements. This efficiency highlights its potential for audio-visual speech separation in resource-constrained applications.
+AVCISAFormer achieves superior separation performance with only **2.6 G MACs**, benefiting from its lightweight architecture and efficient fusion and separation design. To the best of our knowledge, it has the lowest computational complexity among existing audio-visual speech separation models with comparable separation performance.
 
 ---
 
