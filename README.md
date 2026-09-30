@@ -26,9 +26,8 @@ Visit the project page for the network architecture, core modules, real-world de
 
 <h1>🟠 <a href="./AVCISAFormer-V2/">AVCISAFormer</a></h1>
 
-### Efficient Audio-Visual Speech Separation via Adaptive Cross-Modal Fusion and Multi-Scale Sequence-Aware Modeling
+### Efficient Audio-Visual Speech Separation via Adaptive Cross-Modal Fusion and Multi-Scale Sequence-Aware Modeling （ICASSP 2027）
 
-**Submitted to ICASSP 2027**
 
 AVCISAFormer combines adaptive cross-modal fusion with multi-scale sequence-aware modeling to achieve efficient audio-visual speech separation with only **2.6 G MACs**.
 
