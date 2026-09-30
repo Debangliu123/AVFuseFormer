@@ -137,7 +137,7 @@ The following figure visualizes the distributions of speech separation performan
   <img
     src="fig/Visualization2_fig7_3.jpg"
     alt="Visualization of performance distributions"
-    width="100%"
+    width="80%"
   >
 </p>
 
@@ -153,7 +153,7 @@ The following figure visualizes speaker identity representations extracted from 
   <img
     src="fig/Visualization3_fig9_3.jpg"
     alt="Visualization of speaker identities in separated speech"
-    width="100%"
+    width="80%"
   >
 </p>
 
