@@ -65,7 +65,7 @@ AVCISAFormer is evaluated on multiple audio-visual speech separation datasets. T
 The following visualization compares separation performance, computational complexity, and model size across methods.
 
 <p align="center">
-  <img src="fig/macs_si_snri_model_size_bubble.png" alt="Comparison of separation performance, computational complexity, and model size" width="100%">
+  <img src="fig/macs_si_snri_model_size_bubble.png" alt="Comparison of separation performance, computational complexity, and model size" width="70%">
 </p>
 
 <p align="center">
