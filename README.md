@@ -43,27 +43,33 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="./AVFuseFormer-V1/">
-        <img src="https://img.shields.io/badge/Project%20Details-2563EB?style=flat-square" alt="Project Details">
-      </a>
-      <a href="./AVFuseFormer-V1/#source-code">
-        <img src="https://img.shields.io/badge/Source%20Code-374151?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code">
-      </a>
-      <a href="./AVFuseFormer-V1/#real-world-demonstration">
-        <img src="https://img.shields.io/badge/Demos-059669?style=flat-square" alt="Demos">
-      </a>
+    <td valign="top">
+      <h3>
+        <a href="./AVFuseFormer-V1/">View the more details of AVFuseFormer Project →</a>
+        <a href="./AVFuseFormer-V1/">
+          <img src="https://img.shields.io/badge/Project%20Details-2563EB?style=flat-square" alt="Project Details">
+        </a>
+        <a href="./AVFuseFormer-V1/#source-code">
+          <img src="https://img.shields.io/badge/Source%20Code-374151?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code">
+        </a>
+        <a href="./AVFuseFormer-V1/#real-world-demonstration">
+          <img src="https://img.shields.io/badge/Demos-059669?style=flat-square" alt="Demos">
+        </a>
+      </h3>
     </td>
-    <td align="center">
-      <a href="./AVCISAFormer-V2/">
-        <img src="https://img.shields.io/badge/Project%20Details-2563EB?style=flat-square" alt="Project Details">
-      </a>
-      <a href="./AVCISAFormer-V2/#source-code">
-        <img src="https://img.shields.io/badge/Source%20Code-374151?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code">
-      </a>
-      <a href="./AVCISAFormer-V2/#demo">
-        <img src="https://img.shields.io/badge/Demos-059669?style=flat-square" alt="Demos">
-      </a>
+    <td valign="top">
+      <h3>
+        <a href="./AVCISAFormer-V2/">View the more details of AVCISAFormer Project →</a>
+        <a href="./AVCISAFormer-V2/">
+          <img src="https://img.shields.io/badge/Project%20Details-2563EB?style=flat-square" alt="Project Details">
+        </a>
+        <a href="./AVCISAFormer-V2/#source-code">
+          <img src="https://img.shields.io/badge/Source%20Code-374151?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Source Code">
+        </a>
+        <a href="./AVCISAFormer-V2/#demo">
+          <img src="https://img.shields.io/badge/Demos-059669?style=flat-square" alt="Demos">
+        </a>
+      </h3>
     </td>
   </tr>
 </table>
