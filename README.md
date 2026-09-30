@@ -44,20 +44,20 @@
       <p align="center">
         <a href="./AVFuseFormer-V1/">
           <img
-            src="https://img.shields.io/badge/Project%20Details-Explore-blue"
+            src="https://img.shields.io/badge/Project%20Details-0099FF"
             alt="Project Details"
           >
         </a>
         <a href="./AVFuseFormer-V1/#source-code">
           <img
-            src="https://img.shields.io/badge/Source%20Code-Coming%20Soon-orange"
-            alt="Source Code Coming Soon"
+            src="https://img.shields.io/badge/Source%20Code-FF9900"
+            alt="Source Code"
           >
         </a>
         <a href="./AVFuseFormer-V1/#real-world-demonstration">
           <img
-            src="https://img.shields.io/badge/Demos-Watch-green"
-            alt="Watch Demos"
+            src="https://img.shields.io/badge/Demos-44CC11"
+            alt="Demos"
           >
         </a>
       </p>
@@ -69,20 +69,20 @@
       <p align="center">
         <a href="./AVCISAFormer-V2/">
           <img
-            src="https://img.shields.io/badge/Project%20Details-Explore-blue"
+            src="https://img.shields.io/badge/Project%20Details-0099FF"
             alt="Project Details"
           >
         </a>
         <a href="./AVCISAFormer-V2/#source-code">
           <img
-            src="https://img.shields.io/badge/Source%20Code-Coming%20Soon-orange"
-            alt="Source Code Coming Soon"
+            src="https://img.shields.io/badge/Source%20Code-FF9900"
+            alt="Source Code"
           >
         </a>
         <a href="./AVCISAFormer-V2/#demo">
           <img
-            src="https://img.shields.io/badge/Demos-Watch-green"
-            alt="Watch Demos"
+            src="https://img.shields.io/badge/Demos-44CC11"
+            alt="Demos"
           >
         </a>
       </p>
