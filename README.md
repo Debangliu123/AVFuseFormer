@@ -1,126 +1,37 @@
-<h1 align="center">AVFuseFormer</h1>
-
-<h3 align="center">
-  Audio-Visual Fusion and Sequence Modeling with LGAF and DFBN for Efficient Speech Separation
-</h3>
+<h1 align="center">Audio-Visual Speech Separation</h1>
 
 <p align="center">
-  <a href="#source-code">
-    <img
-      src="https://img.shields.io/badge/Source%20Code-Coming%20Soon-orange"
-      alt="Source Code Coming Soon"
-    >
-  </a>
+  Project pages for our work on efficient audio-visual speech separation.
 </p>
 
 ---
 
-## Overview
+## AVFuseFormer
 
-AVFuseFormer is a computationally efficient audio-visual speech separation framework designed to effectively exploit complementary audio and visual information. It incorporates:
+### Audio-Visual Fusion and Sequence Modeling with LGAF and DFBN for Efficient Speech Separation
 
-- **LGAF**, which models dynamic cross-modal interactions and adaptively integrates complementary audio-visual information.
-- **DFBN**, which jointly captures local and global contexts, temporal dependencies, and channel-wise relationships.
-- **AVFuseFormer architecture**, which integrates DFBN and LGAF into a multi-stage encoder-decoder architecture for efficient speech separation.
----
+AVFuseFormer integrates local-global cross-attention fusion and sequence modeling to exploit complementary audio-visual information while capturing local and global context, temporal dependencies, and channel-wise relationships.
 
-## Network Architecture
+Visit the project page for the network architecture, core modules, real-world demonstrations, and source code updates.
 
-### AVFuseFormer
-
-<p align="center">
-  <img
-    src="fig/AVFuseFormer_7.jpg"
-    alt="Overall architecture of AVFuseFormer"
-    width="1000"
-  >
-</p>
-
-<p align="center">
-  <em>Overall architecture of the proposed AVFuseFormer.</em>
-</p>
-
-### Core Modules
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>DFBN Network</b>
-    </td>
-    <td align="center" width="50%">
-      <b>LGAF Module</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="middle" width="50%">
-      <img
-        src="fig/DTC-FFNBFormer4.jpg"
-        alt="Architecture of the DFBN Network"
-        width="95%"
-      >
-    </td>
-    <td align="center" valign="middle" width="50%">
-      <img
-        src="fig/LGAF3.jpg"
-        alt="Architecture of the LGAF Module"
-        width="95%"
-      >
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="top">
-      <em>
-        Architecture of the DTC-FFBFormer Network (DFBN) module.
-      </em>
-    </td>
-    <td align="center" valign="top">
-      <em>
-        Architecture of the local-global cross attention fusion (LGAF) module.
-      </em>
-    </td>
-  </tr>
-</table>
+### [View the AVFuseFormer Project →](./AVFuseFormer-V1/)
 
 ---
 
-## Real-World Demonstration
+## AVCISAFormer
 
-To evaluate the effectiveness of AVFuseFormer on real-world audio-visual speech data, we test the model using several video recordings collected from YouTube. Each recording contains overlapping speech from two speakers under different facial poses and head-motion conditions.
+### Efficient Audio-Visual Speech Separation via Adaptive Cross-Modal Fusion and Multi-Scale Sequence-Aware Modeling
 
-### Demo Video
+**Submitted to ICASSP 2027**
 
-https://github.com/user-attachments/assets/96e16abe-bd4e-4187-a4cc-caf40e977b46
+AVCISAFormer combines adaptive cross-modal fusion with multi-scale sequence-aware modeling to achieve efficient audio-visual speech separation with only **2.6 G MACs**.
 
-### Full Demo Collection
+Visit the project page for the network architecture, performance–efficiency comparison, real-world demonstrations, and source code updates.
 
-The complete set of real-world separation demonstrations is also available for viewing and download via Google Drive.
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1m22oktrv1XFLONPhJP4qVx8hhl706oTi/view?usp=drive_link">
-    <b>▶ Access and Download the Full Demo via Google Drive</b>
-  </a>
-</p>
-
-### Demo Conditions
-
-| Videos | Facial pose and motion |
-| :----: | :--------------------- |
-| 1–2 | The speakers mainly maintain frontal facial poses. |
-| 3–5 | The speakers exhibit varying degrees of side-facing poses and head motion. |
-
-These examples demonstrate the effectiveness of AVFuseFormer under both relatively controlled frontal-view conditions and more challenging scenarios involving pose variations and head movements.
+### [View the AVCISAFormer Project →](./AVCISAFormer-V2/)
 
 ---
 
 ## Source Code
 
-> [!NOTE]
-> The source code and pretrained models will be made publicly available upon acceptance of the paper. Please stay tuned for future updates.
-
----
-
-## Contact
-
-For questions or issues related to this work, please open an issue in this repository.
+Information about source code availability will be updated on the corresponding project pages.
