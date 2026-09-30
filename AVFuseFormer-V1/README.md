@@ -5,6 +5,24 @@
 </h3>
 
 <p align="center">
+  <a href="#network-architecture">
+    <img
+      src="https://img.shields.io/badge/Network%20Architecture-0099FF"
+      alt="Network Architecture"
+    >
+  </a>
+  <a href="#real-world-demonstration">
+    <img
+      src="https://img.shields.io/badge/Demos-44CC11"
+      alt="Demos"
+    >
+  </a>
+  <a href="#experimental-visualizations">
+    <img
+      src="https://img.shields.io/badge/Results-8B5CF6"
+      alt="Results"
+    >
+  </a>
   <a href="#source-code">
     <img
       src="https://img.shields.io/badge/Source%20Code-Coming%20Soon-orange"
@@ -78,21 +96,34 @@ AVFuseFormer is a computationally efficient audio-visual speech separation frame
   </tr>
 </table>
 
-### Visual Backbones
+---
 
-The following figure illustrates the different visual backbones considered in our experiments.
+## Real-World Demonstration
+
+To evaluate the effectiveness of AVFuseFormer on real-world audio-visual speech data, we test the model using several video recordings collected from YouTube. Each recording contains overlapping speech from two speakers under different facial poses and head-motion conditions.
+
+### Demo Video
+
+https://github.com/user-attachments/assets/96e16abe-bd4e-4187-a4cc-caf40e977b46
+
+### Full Demo Collection
+
+The complete set of real-world separation demonstrations is also available for viewing and download via Google Drive.
 
 <p align="center">
-  <img
-    src="fig/FusionFormer_Different_Visualinput4.jpg"
-    alt="Schematic illustrations of different visual backbones"
-    width="100%"
-  >
+  <a href="https://drive.google.com/file/d/1m22oktrv1XFLONPhJP4qVx8hhl706oTi/view?usp=drive_link">
+    <b>▶ Access and Download the Full Demo via Google Drive</b>
+  </a>
 </p>
 
-<p align="center">
-  <em>Schematic illustrations of different visual backbones.</em>
-</p>
+### Demo Conditions
+
+| Videos | Facial pose and motion |
+| :----: | :--------------------- |
+| 1–2 | The speakers mainly maintain frontal facial poses. |
+| 3–5 | The speakers exhibit varying degrees of side-facing poses and head motion. |
+
+These examples demonstrate the effectiveness of AVFuseFormer under both relatively controlled frontal-view conditions and more challenging scenarios involving pose variations and head movements.
 
 ---
 
@@ -129,35 +160,6 @@ The following figure visualizes speaker identity representations extracted from 
 <p align="center">
   <em>Visualization of speaker identities in separated speech.</em>
 </p>
-
----
-
-## Real-World Demonstration
-
-To evaluate the effectiveness of AVFuseFormer on real-world audio-visual speech data, we test the model using several video recordings collected from YouTube. Each recording contains overlapping speech from two speakers under different facial poses and head-motion conditions.
-
-### Demo Video
-
-https://github.com/user-attachments/assets/96e16abe-bd4e-4187-a4cc-caf40e977b46
-
-### Full Demo Collection
-
-The complete set of real-world separation demonstrations is also available for viewing and download via Google Drive.
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1m22oktrv1XFLONPhJP4qVx8hhl706oTi/view?usp=drive_link">
-    <b>▶ Access and Download the Full Demo via Google Drive</b>
-  </a>
-</p>
-
-### Demo Conditions
-
-| Videos | Facial pose and motion |
-| :----: | :--------------------- |
-| 1–2 | The speakers mainly maintain frontal facial poses. |
-| 3–5 | The speakers exhibit varying degrees of side-facing poses and head motion. |
-
-These examples demonstrate the effectiveness of AVFuseFormer under both relatively controlled frontal-view conditions and more challenging scenarios involving pose variations and head movements.
 
 ---
 
