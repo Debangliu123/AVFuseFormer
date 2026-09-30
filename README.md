@@ -6,7 +6,7 @@
 
 ---
 
-<h1>Project 1: <a href="./AVFuseFormer-V1/">AVFuseFormer</a></h1>
+<h1>Project 1: AVFuseFormer</h1>
 
 ### Audio-Visual Fusion and Sequence Modeling with LGAF and DFBN for Efficient Speech Separation
 
@@ -24,7 +24,7 @@ Visit the project page for the network architecture, core modules, real-world de
 
 <br>
 
-<h1>Project 2: <a href="./AVCISAFormer-V2/">AVCISAFormer</a></h1>
+<h1>Project 2: AVCISAFormer</h1>
 
 ### Efficient Audio-Visual Speech Separation via Adaptive Cross-Modal Fusion and Multi-Scale Sequence-Aware Modeling
 
