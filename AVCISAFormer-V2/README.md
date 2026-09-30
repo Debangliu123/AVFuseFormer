@@ -13,6 +13,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
+  <a href="#demo">Demo</a> •
   <a href="#network-architecture">Network Architecture</a> •
   <a href="#performance-and-efficiency">Performance and Efficiency</a> •
   <a href="#source-code">Source Code</a> •
@@ -31,6 +32,15 @@ We introduce **AVCISAFormer**, an efficient audio-visual speech separation model
 - **Multi-Scale Sequence-Aware Block (MSAB):** Captures local details and global context while modeling temporal dependencies and channel-wise relationships.
 
 Experiments on multiple datasets demonstrate strong separation performance with a computational cost of only **2.6 G MACs**, supporting a favorable balance between separation quality and efficiency.
+
+---
+
+## Demo
+
+This video demonstrates the speech separation performance of AVCISAFormer on real-world recordings.
+
+<!-- 在下方单独一行粘贴 GitHub 生成的视频附件链接，链接须放在注释外。 -->
+
 
 ---
 
