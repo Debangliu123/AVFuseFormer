@@ -14,7 +14,7 @@ AVFuseFormer integrates local-global cross-attention fusion and sequence modelin
 
 Visit the project page for the network architecture, core modules, real-world demonstrations, and source code updates.
 
-### [View the AVFuseFormer Project →](./AVFuseFormer-V1/)
+### [View the more details of AVFuseFormer Project →](./AVFuseFormer-V1/)
 
 <br>
 
@@ -34,7 +34,7 @@ AVCISAFormer combines adaptive cross-modal fusion with multi-scale sequence-awar
 
 Visit the project page for the network architecture, performance–efficiency comparison, real-world demonstrations, and source code updates.
 
-### [View the AVCISAFormer Project →](./AVCISAFormer-V2/)
+### [View the more details of AVCISAFormer Project →](./AVCISAFormer-V2/)
 
 ---
 
